@@ -1,10 +1,11 @@
 
-public class Main
+ publclass Main
 {
-	public static void main(String[] args){
-	String name = "alyamama ";
-	int myfavnumber = 17;
-	
-		System.out.println("hi , my name is "+ name+"my fav Number is "+myfavnumber);
+	public static void main(String[] args) {
+	    String name ="alyamama";
+	    int numder = 4 ;
+	    String hobby = "pinting ";
+		System.out.println("my name is "+ name +	", my fav numder is " + numder + " and my hobby is "+ hobby);
 	}
 }
+ic 
