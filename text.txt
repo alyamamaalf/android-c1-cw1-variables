@@ -1,0 +1,10 @@
+
+public class Main
+{
+	public static void main(String[] args){
+	String name = "alyamama ";
+	int myfavnumber = 17;
+	
+		System.out.println("hi , my name is "+ name+"my fav Number is "+myfavnumber);
+	}
+}
